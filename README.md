@@ -1,3 +1,13 @@
+Build the project
+
+Run with Apache Tomcat 10.1.x Deploy WAR file or run directly via IDE
+
+Access via browser
+
+System Requirements Java JDK 17+
+
+Apache Tomcat 10.1.x
+
 ![image](https://github.com/user-attachments/assets/a846169d-47bc-4fb9-8c29-58d1ef980346)
 ![image](https://github.com/user-attachments/assets/0e33331f-524e-4c2b-92ad-d353081c0771)
 ![image](https://github.com/user-attachments/assets/b6306cc4-0757-44b4-b47e-f61a55788e2e)
